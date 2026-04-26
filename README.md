@@ -1,6 +1,8 @@
-# MindYourMoney 💸 – AI Financial Personality Analyzer
+🚀 Overview
 
-A Gen Z-style AI-powered financial personality quiz. 12 spicy questions → one brutally honest profile.
+MindYourMoney is a Gen Z-style financial simulation game that evaluates how users manage money through a series of interactive questions.
+
+Unlike basic quiz applications, this project integrates AI-inspired backend logic using weighted scoring, probabilistic analysis, and behavioral pattern detection to generate personalized financial insights.
 
 ## Project Structure
 
